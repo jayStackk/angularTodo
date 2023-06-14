@@ -1,0 +1,18 @@
+.container {
+  margin: 10%;
+  padding: 20px;
+  border: 3px solid #25280a;
+  border-radius: 8px;
+}
+
+.header {
+  width: 100%;
+  text-align: center;
+}
+
+.inputMe {
+
+  text-align: left;
+  margin-top: 25px;
+  margin-left: -15px;
+}
